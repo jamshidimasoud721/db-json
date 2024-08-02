@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66381b80f070793a6e6c5525"
+  },
+  "name": "Alex",
+  "desc": "Incredible find! The jewelry from this shop is not only stunning but also feels unique. The quality is exceptional, and the customer service was top-notch. I appreciate the fast shipping too. My new go-to for elegant and timeless pieces. Highly recommended!",
+  "location": "London, The UK",
+  "photo": "Alex.png"
+},
+{
+  "_id": {
+    "$oid": "66381b80f070793a6e6c5526"
+  },
+  "name": "Binita",
+  "desc": "Absolutely thrilled with my purchase! The jewelry is not only beautifully designed but also of exceptional quality. The ordering process was seamless, and my item arrived promptly in an elegant package. I'll definitely be back for more. Thank you for adding a touch of sparkle to my collection!",
+  "location": "Westmidlands, Birmingham",
+  "photo": "Binita.png"
+},
+{
+  "_id": {
+    "$oid": "66381b80f070793a6e6c5527"
+  },
+  "name": "Aliqua",
+  "desc": "Absolutely delighted with my recent purchase! The exquisite craftsmanship and attention to detail exceeded my expectations. The jewelry is even more stunning in person, and the customer service was exceptional. Will definitely be recommending this shop to friends and returning for future purchases. Thank you for making my experience truly memorable!",
+  "location": "Birmingham, The UK",
+  "photo": "Aliqua.png"
+}]

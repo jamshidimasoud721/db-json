@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "663820ccf070793a6e6c552a"
+  },
+  "name": "Ring",
+  "desc": "Discover LODGE's latest collection, a fusion of contemporary trends and timeless elegance. From avant-garde furniture to fashion-forward apparel, each piece reflects our commitment to modern living. With a harmonious blend of form and function, our new collection invites you to elevate your lifestyle with sophisticated design. Explore unparalleled craftsmanship and refined aesthetics at LODGE, where every item tells a story of individuality. Embrace the art of living with our captivating contemporary treasures.",
+  "photo": "slider-img.png"
+},
+{
+  "_id": {
+    "$oid": "663820ccf070793a6e6c552b"
+  },
+  "name": "Gold Ring",
+  "desc": "Discover LODGE's latest collection, a fusion of contemporary trends and timeless elegance. From avant-garde furniture to fashion-forward apparel, each piece reflects our commitment to modern living. With a harmonious blend of form and function, our new collection invites you to elevate your lifestyle with sophisticated design. Explore unparalleled craftsmanship and refined aesthetics at LODGE, where every item tells a story of individuality. Embrace the art of living with our captivating contemporary treasures.",
+  "photo": "slider-img2.png"
+},
+{
+  "_id": {
+    "$oid": "663820ccf070793a6e6c552c"
+  },
+  "name": "White Ring",
+  "desc": "Discover LODGE's latest collection, a fusion of contemporary trends and timeless elegance. From avant-garde furniture to fashion-forward apparel, each piece reflects our commitment to modern living. With a harmonious blend of form and function, our new collection invites you to elevate your lifestyle with sophisticated design. Explore unparalleled craftsmanship and refined aesthetics at LODGE, where every item tells a story of individuality. Embrace the art of living with our captivating contemporary treasures.",
+  "photo": "slider-img1.png"
+}]

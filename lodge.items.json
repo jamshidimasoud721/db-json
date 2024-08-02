@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6638107f5129a95f0f6047fb"
+  },
+  "name": "Diamond Ring",
+  "price": 10000,
+  "category": "Jewellery",
+  "photo": "Diamond-Ring.png"
+},
+{
+  "_id": {
+    "$oid": "6638107f5129a95f0f6047fc"
+  },
+  "name": "Ring",
+  "price": 20000,
+  "category": "Jewellery",
+  "photo": "Ring.png"
+},
+{
+  "_id": {
+    "$oid": "6638107f5129a95f0f6047fd"
+  },
+  "name": "Engagement Ring",
+  "price": 150000,
+  "category": "Jewellery",
+  "photo": "Engagement-Ring.png"
+},
+{
+  "_id": {
+    "$oid": "6638107f5129a95f0f6047fe"
+  },
+  "name": "Diamond Earring",
+  "price": 10000,
+  "category": "Jewellery",
+  "photo": "Diamond-Earring.png"
+},
+{
+  "_id": {
+    "$oid": "6638107f5129a95f0f6047ff"
+  },
+  "name": "Wedding Ring",
+  "price": 20000,
+  "category": "Jewellery",
+  "photo": "Wedding-Ring.png"
+},
+{
+  "_id": {
+    "$oid": "6638107f5129a95f0f604800"
+  },
+  "name": "Earring",
+  "price": 150000,
+  "category": "Jewellery",
+  "photo": "Earring.png"
+}]

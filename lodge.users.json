@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6638051d2bc0e5e7e40d57d6"
+  },
+  "email": "AYDABZSH@GMAIL.COM",
+  "password": "$2a$12$DKK8pKBY3EQB2ZqOhVijEOHooMP4BhWoBVFECxpVigFsbgkbdWmze",
+  "name": "Ayda Bahmanzadeh Shafiee",
+  "postCode": "B7 4RB",
+  "address": "Flat 28,Compass",
+  "__v": 0
+}]
